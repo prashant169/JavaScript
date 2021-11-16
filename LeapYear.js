@@ -8,3 +8,4 @@ function checkLeapYear(year) {
     } else {
         console.log(year + ' is not a leap year');
     }
+}
