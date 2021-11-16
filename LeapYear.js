@@ -1,3 +1,4 @@
+
 const year = 2021;
 checkLeapYear(year);
 
